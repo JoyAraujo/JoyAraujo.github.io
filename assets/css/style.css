@@ -268,7 +268,7 @@ h6 {
   height: 100vh;
   background: url("../img/hero-bg.png") top right no-repeat;
   background-size: cover;
-  position: relative;
+  align-self: flex-end;
 }
 
 @media (min-width: 992px) {
@@ -396,7 +396,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #728394;
+  color: #e03e6f;
 }
 
 .about .content ul {
